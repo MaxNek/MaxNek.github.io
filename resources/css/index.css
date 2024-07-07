@@ -3,4 +3,17 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Calibri Light', sans-serif;
+    background-color: grey
+}
+
+
+.current_content {
+    margin-top: 20%;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1, p {
+        padding: 10px;
+    }
 }
